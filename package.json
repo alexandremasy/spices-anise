@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "dependencies": {
+    "@spices/basil": "^1.4.0"
+  },
+  "description": "",
+  "keywords": [
+    "spices"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "@spices/anise",
+  "version": "0.0.0"
+}
